@@ -1,0 +1,3 @@
+.defaultClass {
+  @apply w-[160px] h-[160px] object-cover rounded-full border-2 border-gray-400 shadow-md transition-transform duration-300 hover:scale-105;
+}
